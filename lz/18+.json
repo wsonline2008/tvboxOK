@@ -125,28 +125,6 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
-		{
-			"key": "本地txt",
-			"name": "🔞本地txt",
-			"api": "csp_FileSpider",
-			"type": "3",
-			"ext": "./txt/黄色仓库.txt",
-			"searchable": 1,
-			"filterable": 1,
-			"switchable": 1,
-			"jar": "./jar/WvSpider.jar"
-		},
-		{
-			"key": "本地m3u",
-			"name": "🔞本地m3u",
-			"api": "csp_FileSpider",
-			"type": "3",
-			"ext": "./txt/麻豆图标版.m3u",
-			"searchable": 1,
-			"filterable": 1,
-			"switchable": 1,
-			"jar": "./jar/WvSpider.jar"
-		},
 	],
 	"parses": [{
 			"name": "解析聚合",
